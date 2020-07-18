@@ -1,2 +1,2 @@
-variable person
+variable Person
 end
