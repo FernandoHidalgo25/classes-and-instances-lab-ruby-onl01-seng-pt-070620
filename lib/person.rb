@@ -1,2 +1,3 @@
-variable Person
+class Person
 end
+
